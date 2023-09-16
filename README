@@ -1,0 +1,6 @@
+#INFORMATION ABOUT THE FOLLOWING FILES 
+#script.rpy - the file I started completely from scratch -- all of the code in there was worked on by me
+#gui.rpy - a base file provided by Ren'Py. The majority of the code that is in the file was provided by Ren'Py, however certain sections were edited and adjusted to match the current custom GUI in my game.
+#------------- My role included changing the accent colours, moving the position of the game buttons, separating the main menu screen from the game preferences screen, and changing the fonts.
+#screens.rpy - a base file provided by Ren'Py. Like with gui.rpy, I edited certain parts of this file to better fit my game.
+#------------- My role included editing the NVL screen section to implement a phone texting feature. This phone texting feature was based off of Nighten's 'Yet Another Phone' Model with some slight tweaks.
